@@ -79,6 +79,8 @@
   font-weight: 700;
   font-size: 40px;
   padding-bottom: 16px;
+  text-align: center;
+  margin-left: 120px
 }
 .section-heading p{
   color: #627382;
