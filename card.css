@@ -21,7 +21,7 @@
   font-weight: 600;
   text-align: center;
 }
-.card img{
+.card image{
   width: 100%;
   border-radius: 8px;
 
@@ -71,6 +71,8 @@
   width: 100%;
   text-align: center;
   padding-left: 40px
+  margin: 0 auto
+  
 }
 .section-heading h3{
   width: 1000px;
@@ -91,6 +93,7 @@
   border-radius: 4px;
   color:#f1f4f8;
   padding-bottom: 16px;
+  text-align: center;
 }
 
 .section-heading .purple{
